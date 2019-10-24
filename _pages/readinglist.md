@@ -10,6 +10,10 @@ featured_image: /images/readinglist/library.jpg
 * Innovators Dilemma
 * The Hard Thing about Hard Things
 * The Lean Startup
+* The Inevitable
+* Valuation: Methods & Models in Applied Corporate Finance
+* Crossing the Chasm
+* Built to Sell
 
 ### Personal Growth
 * 4-Hour Work Week
@@ -17,15 +21,29 @@ featured_image: /images/readinglist/library.jpg
 * Quiet
 
 ### History
+* The Great Divide
 * From Yao to Mao: 5000 Years of Chinese History
+* Dreams from my Father
+* Known and Unknown
+* The Art of War
 
-### Food & Culture
+### Cultural
 * Kitchen Confidential
 * Fresh of the Boat: A Memoir
+* Born a Crime
+* How to American: An Immigrant's Guide to Disappointing Your Parents
+* I Can't Make This Up: Life Lessons
+* Modern Romance: An Investigation
+* Black Privilege
 
 ### DevOps IT
 * Phoenix Project
 * Accelerate by Jez Humble
+* Measure What Matters
+
+
+### Science
+* Astrophysics for People in a Hurry
 
 ### Science Fiction
 * Foundation
@@ -39,7 +57,6 @@ featured_image: /images/readinglist/library.jpg
 * [The Joe Rogan Experience](http://joeroganexp.joerogan.libsynpro.com/rss) -Fringe thinker with cool guest stars
 
 ### Blogs
-* [My old blog](http://chrischantheman.blogspot.com/) -content is still relevant!
 * [a16z](https://a16z.com/) -Great to hear about what's going on at the top levels of the VC world
 * [Seth Godin](https://seths.blog/) -An inspirational quote a day keeps the laziness at bay
 * [Andrew Chen](https://andrewchen.co/) -Partner at a16z with a lot of knowledge on consumer marketplaces
