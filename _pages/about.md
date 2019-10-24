@@ -12,6 +12,7 @@ I'm currently living in San Jose and work at [Box Inc](https://www.box.com). I g
 * Making things more efficient
 * History
 * Basketball (Golden State Warriors to be exact!)
+* Consumer-ization of Enterprise SaaS  
 * Blockchain & Cryptocurrencies
 * All matters of food
   * Cooking & culture
@@ -29,4 +30,4 @@ I'm currently living in San Jose and work at [Box Inc](https://www.box.com). I g
 
 ## Contact Me
 * Msg me through [LinkedIn](https://www.linkedin.com/in/christopher-chan-7503157/)
-* Email christopher dot yh dot chan at gmail dot com 
+* Email christopher dot yh dot chan at gmail dot com
