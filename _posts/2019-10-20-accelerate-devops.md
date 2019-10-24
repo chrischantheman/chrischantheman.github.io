@@ -18,6 +18,8 @@ What's great is the book very succinctly distills the insights and areas of focu
 ### PART 1: 24 key capabilities that are broken down into 5 categories
 These are the 24 capabilities broken down by 5 broad categories (in no particular order) that a high-performing DevOps organization does very well that will ultimately drive improvements in software delivery performance. By focusing on capabilities, we've shifted the focus from thinking about <span style="color:red">OUTPUT</span> (How much work are we doing? What's the maturity level of our org?) to <span style="color:green">OUTCOMES</span> (Did we help deliver on business objectives?).
 
+>We've shifted the focus from thinking about <span style="color:red">OUTPUT</span> to <span style="color:green">OUTCOMES</span>.
+
 The pitfalls of focusing on output leads to toxic practices such as gaming the amount of work you do, fog-of-war tactics for a team's work, burn-out for consistently overcommitted teams...etc. Focusing on outcomes aligns the incentives at a macro-level towards the betterment of the overall business and away from micro-level incentives. For a deep dive on each of these capabilities, I would suggest buying the book :)
 
 	1. Continuous Delivery
