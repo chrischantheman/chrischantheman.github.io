@@ -1,24 +1,9 @@
-import { useState } from "react";
 import Header from "@/components/Header";
 
 const Index = () => {
-  const [funMode, setFunMode] = useState(false);
-
-  const toggleFunMode = () => {
-    setFunMode(!funMode);
-  };
-
   return (
-    <div 
-      className="min-h-screen transition-all duration-500"
-      style={{
-        background: funMode 
-          ? 'linear-gradient(135deg, #22C1C3 0%, #FDBB2D 100%)' 
-          : '',
-        color: funMode ? 'white' : ''
-      }}
-    >
-      <Header funMode={funMode} onToggleFunMode={toggleFunMode} />
+    <div className="min-h-screen bg-background">
+      <Header />
       
       <main className="container max-w-4xl mx-auto px-6 py-12">
         {/* About Me Section */}
