@@ -1,4 +1,9 @@
-const Header = () => {
+interface HeaderProps {
+  funMode: boolean;
+  onToggleFunMode: () => void;
+}
+
+const Header = ({ funMode, onToggleFunMode }: HeaderProps) => {
   const scrollToSection = (sectionId: string) => {
     const element = document.getElementById(sectionId);
     if (element) {
@@ -14,7 +19,7 @@ const Header = () => {
             Chris Chan
           </h1>
           
-          <nav className="flex space-x-8">
+          <nav className="flex items-center space-x-8">
             <button 
               onClick={() => scrollToSection('about')}
               className="text-foreground hover:text-primary transition-colors font-body"
@@ -26,6 +31,12 @@ const Header = () => {
               className="text-foreground hover:text-primary transition-colors font-body"
             >
               Find Me
+            </button>
+            <button
+              onClick={onToggleFunMode}
+              className="ml-4 px-4 py-2 bg-primary text-primary-foreground rounded-md hover:bg-primary/90 transition-colors font-body"
+            >
+              {funMode ? 'Normal' : 'Fun'} Mode
             </button>
           </nav>
         </div>
