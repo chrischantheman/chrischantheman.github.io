@@ -22,12 +22,6 @@ const Header = () => {
               About Me
             </button>
             <button 
-              onClick={() => scrollToSection('posts')}
-              className="text-foreground hover:text-primary transition-colors font-body"
-            >
-              Posts
-            </button>
-            <button 
               onClick={() => scrollToSection('find-me')}
               className="text-foreground hover:text-primary transition-colors font-body"
             >

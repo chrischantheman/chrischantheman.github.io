@@ -23,32 +23,6 @@ const Index = () => {
           </div>
         </section>
 
-        {/* Posts Section */}
-        <section id="posts" className="mb-20">
-          <h2 className="text-3xl font-bold font-heading text-foreground mb-6">
-            Posts
-          </h2>
-          <div className="space-y-6">
-            <article className="border-b border-border pb-6">
-              <h3 className="text-xl font-bold font-heading text-foreground mb-2">
-                Welcome to My Website
-              </h3>
-              <p className="text-muted-foreground text-sm mb-3">
-                January 2024
-              </p>
-              <p className="font-body text-foreground">
-                This is my first post on my new personal website. I'm excited to share 
-                my thoughts and experiences here. Stay tuned for more content!
-              </p>
-            </article>
-            
-            <div className="text-center py-8">
-              <p className="text-muted-foreground font-body">
-                More posts coming soon...
-              </p>
-            </div>
-          </div>
-        </section>
 
         {/* Find Me Section */}
         <section id="find-me" className="mb-20">
