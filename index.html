@@ -1,29 +1,66 @@
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Chris Chan</title>
-    <meta name="description" content="Personal website of Chris Chan" />
-    <meta name="author" content="Chris Chan" />
-    
-    <!-- Rockwell Font -->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Rockwell:wght@400;700&display=swap" rel="stylesheet">
+---
+layout: default
+---
 
-    <meta property="og:title" content="3b00299e-ef3d-456a-945e-4f89b66650ea" />
-    <meta property="og:description" content="Lovable Generated Project" />
-    <meta property="og:type" content="website" />
-    <meta property="og:image" content="https://lovable.dev/opengraph-image-p98pqg.png" />
+<div class="page">
+  <main class="main">
+    <!-- About Me Section -->
+    <section id="about" class="section">
+      <h2 class="section-title">
+        About Me
+      </h2>
+      <div class="prose">
+        <p class="prose-paragraph">
+          Welcome to my personal website. I'm Chris Chan, and this is where I share 
+          my thoughts, projects, and connect with others.
+        </p>
+        <p class="prose-paragraph">
+          This space serves as a digital home where you can learn more about me, 
+          read my latest posts, and find ways to get in touch.
+        </p>
+      </div>
+    </section>
 
-    <meta name="twitter:card" content="summary_large_image" />
-    <meta name="twitter:site" content="@lovable_dev" />
-    <meta name="twitter:image" content="https://lovable.dev/opengraph-image-p98pqg.png" />
-  </head>
-
-  <body>
-    <div id="root"></div>
-    <script type="module" src="/src/main.tsx"></script>
-  </body>
-</html>
+    <!-- Find Me Section -->
+    <section id="find-me" class="section">
+      <h2 class="section-title">
+        Find Me
+      </h2>
+      <div class="contact-list">
+        <div class="contact-item">
+          <span class="contact-label">Email:</span>
+          <a 
+            href="mailto:hello@chrischan.com" 
+            class="contact-link"
+          >
+            hello@chrischan.com
+          </a>
+        </div>
+        
+        <div class="contact-item">
+          <span class="contact-label">GitHub:</span>
+          <a 
+            href="https://github.com/chrischan" 
+            target="_blank" 
+            rel="noopener noreferrer"
+            class="contact-link"
+          >
+            github.com/chrischan
+          </a>
+        </div>
+        
+        <div class="contact-item">
+          <span class="contact-label">LinkedIn:</span>
+          <a 
+            href="https://linkedin.com/in/chrischan" 
+            target="_blank" 
+            rel="noopener noreferrer"
+            class="contact-link"
+          >
+            linkedin.com/in/chrischan
+          </a>
+        </div>
+      </div>
+    </section>
+  </main>
+</div>
