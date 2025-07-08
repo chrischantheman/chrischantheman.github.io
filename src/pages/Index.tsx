@@ -26,36 +26,47 @@ const Index = () => {
 
         {/* Find Me Section */}
         <section id="find-me" className="mb-20">
-          <h2 className="text-3xl font-bold font-heading text-foreground mb-6">
+       <h2 className="text-3xl font-bold font-heading text-foreground mb-6">
             Find Me
           </h2>
           <div className="space-y-4 font-body">
             <div className="flex items-center space-x-3">
-              <span className="font-semibold text-foreground">Email:</span>
+              <span className="font-semibold text-foreground">Reddit:</span>
               <a 
-                href="mailto:hello@chrischan.com" 
+                href="https://www.reddit.com/u/therealsaucebaws/s/xzSUVuzKBE" 
                 className="text-primary hover:underline"
               >
-                hello@chrischan.com
+                Reddit/therealsaucebaws
+              </a>
+            </div>
+
+          <div className="space-y-4 font-body">
+            <div className="flex items-center space-x-3">
+              <span className="font-semibold text-foreground">X:</span>
+              <a 
+                href="https://x.com/chrischanthaman?s=21&t=VOiL--BNHEXTlEEKmAqXzg" 
+                className="text-primary hover:underline"
+              >
+                X/chrischan
               </a>
             </div>
             
             <div className="flex items-center space-x-3">
               <span className="font-semibold text-foreground">GitHub:</span>
               <a 
-                href="https://github.com/chrischan" 
+                href="https://github.com/chrischantheman" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-primary hover:underline"
               >
-                github.com/chrischan
+                github.com/chrischantheman
               </a>
             </div>
             
             <div className="flex items-center space-x-3">
               <span className="font-semibold text-foreground">LinkedIn:</span>
               <a 
-                href="https://linkedin.com/in/chrischan" 
+                href="https://linkedin.com/in/chrischantheman" 
                 target="_blank" 
                 rel="noopener noreferrer"
                 className="text-primary hover:underline"
