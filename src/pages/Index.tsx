@@ -32,42 +32,41 @@ const Index = () => {
           <div className="space-y-4 font-body">
             <div className="flex items-center space-x-3">
               <span className="font-semibold text-foreground">Reddit:</span>
-              <a 
-                href="https://www.reddit.com/u/therealsaucebaws/s/xzSUVuzKBE" 
+              <a
+                href="https://www.reddit.com/u/therealsaucebaws/s/xzSUVuzKBE"
                 className="text-primary hover:underline"
               >
                 Reddit/therealsaucebaws
               </a>
             </div>
 
-          <div className="space-y-4 font-body">
             <div className="flex items-center space-x-3">
               <span className="font-semibold text-foreground">X:</span>
-              <a 
-                href="https://x.com/chrischanthaman?s=21&t=VOiL--BNHEXTlEEKmAqXzg" 
+              <a
+                href="https://x.com/chrischanthaman?s=21&t=VOiL--BNHEXTlEEKmAqXzg"
                 className="text-primary hover:underline"
               >
                 X/chrischan
               </a>
             </div>
-            
+
             <div className="flex items-center space-x-3">
               <span className="font-semibold text-foreground">GitHub:</span>
-              <a 
-                href="https://github.com/chrischantheman" 
-                target="_blank" 
+              <a
+                href="https://github.com/chrischantheman"
+                target="_blank"
                 rel="noopener noreferrer"
                 className="text-primary hover:underline"
               >
                 github.com/chrischantheman
               </a>
             </div>
-            
+
             <div className="flex items-center space-x-3">
               <span className="font-semibold text-foreground">LinkedIn:</span>
-              <a 
-                href="https://linkedin.com/in/chrischantheman" 
-                target="_blank" 
+              <a
+                href="https://linkedin.com/in/chrischantheman"
+                target="_blank"
                 rel="noopener noreferrer"
                 className="text-primary hover:underline"
               >
