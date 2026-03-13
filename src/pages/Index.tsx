@@ -18,7 +18,7 @@ const Index = () => {
             </p>
             <p>
               This space serves as a digital home where you can learn more about me,
-              read my latest posts, and find ways to get in touch. (deploy test ✓)
+              read my latest posts, and find ways to get in touch.
             </p>
           </div>
         </section>
