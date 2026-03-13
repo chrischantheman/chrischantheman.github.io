@@ -56,7 +56,6 @@ When committing on Chris's behalf:
 - Always confirm the list of changed files with Chris before committing
 - Never use `--no-verify` to skip hooks
 - Prefer small, focused commits over large sweeping ones
-- Co-author commits: `Co-Authored-By: Claude <noreply@anthropic.com>`
 
 ---
 
